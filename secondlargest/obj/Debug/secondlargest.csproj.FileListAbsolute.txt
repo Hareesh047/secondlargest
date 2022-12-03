@@ -1,0 +1,8 @@
+C:\Users\samuel\source\repos\secondlargest\secondlargest\bin\Debug\secondlargest.exe.config
+C:\Users\samuel\source\repos\secondlargest\secondlargest\bin\Debug\secondlargest.exe
+C:\Users\samuel\source\repos\secondlargest\secondlargest\bin\Debug\secondlargest.pdb
+C:\Users\samuel\source\repos\secondlargest\secondlargest\obj\Debug\secondlargest.csproj.AssemblyReference.cache
+C:\Users\samuel\source\repos\secondlargest\secondlargest\obj\Debug\secondlargest.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel\source\repos\secondlargest\secondlargest\obj\Debug\secondlargest.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\secondlargest\secondlargest\obj\Debug\secondlargest.exe
+C:\Users\samuel\source\repos\secondlargest\secondlargest\obj\Debug\secondlargest.pdb
